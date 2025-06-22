@@ -1,11 +1,11 @@
 
 # 🎮 Dashboard de Vendas do Xbox com Excel
 
-Este repositório apresenta um **dashboard de vendas interativo** desenvolvido no Microsoft Excel, com foco na análise de desempenho comercial da linha **Xbox**. O projeto foi criado para demonstrar habilidades em **Business Intelligence** usando apenas ferramentas do Excel.
+Este repositório apresenta um **dashboard de vendas interativo** desenvolvido no Microsoft Excel, com foco na análise de desempenho comercial da linha **Xbox**.
 
 ## 📌 Objetivo
 
-Criar um painel visual dinâmico e informativo que auxilie na **tomada de decisão**, permitindo uma análise rápida de indicadores de vendas como receita, produtos mais vendidos e performance por região ou vendedor.
+O objetivo deste desafio é **criar um dashboard de vendas com foco na organização e visualização de dados**. A proposta é transformar **dados brutos em informações visuais claras e úteis**, permitindo uma análise eficaz do desempenho de vendas e auxiliando na **tomada de decisões baseadas em dados**.
 
 ## 🧩 Funcionalidades
 
